@@ -1,6 +1,6 @@
 # NotivAi Landing Page
 
-**_In Progress_**
+ https://notiv-ai-landing-page.vercel.app/
 
 ## Welcome to NotivAi!
 
